@@ -1,0 +1,4 @@
+version: "3"
+services:
+  python-dc-test:
+    build: ./python-dc-test
